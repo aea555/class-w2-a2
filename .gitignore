@@ -112,3 +112,19 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Easy Primitive People: sadece sahnede (Moving.unity) kullanılan dosyaları tut
+/Assets/Easy Primitive People/*.unity
+/Assets/Easy Primitive People/*.unity.meta
+/Assets/Easy Primitive People/*/*
+!/Assets/Easy Primitive People/Prefab/Pig.prefab*
+!/Assets/Easy Primitive People/Prefab/Pumpkin.prefab*
+!/Assets/Easy Primitive People/Materials/Baby Blue.mat*
+!/Assets/Easy Primitive People/Materials/Black.mat*
+!/Assets/Easy Primitive People/Materials/Dark Green.mat*
+!/Assets/Easy Primitive People/Materials/Dark Pink.mat*
+!/Assets/Easy Primitive People/Materials/Orange.mat*
+!/Assets/Easy Primitive People/Materials/Pink.mat*
+!/Assets/Easy Primitive People/Materials/Red.mat*
+!/Assets/Easy Primitive People/Materials/White.mat*
+!/Assets/Easy Primitive People/Materials/Yellow.mat*
