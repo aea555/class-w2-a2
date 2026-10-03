@@ -660,7 +660,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 622eff35a627b47e7bb60696712eab4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Escape
-  speed: 5
+  speed: 8
 --- !u!1001 &1380682925
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -768,7 +768,7 @@ MonoBehaviour:
   speed: 3
   fov: 60
   viewDistance: 10
-  searchTurnSpeed: 10
+  searchTurnSpeed: 25
   catchDistance: 1
 --- !u!1 &1415820628
 GameObject:
